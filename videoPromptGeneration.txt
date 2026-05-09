@@ -1,0 +1,32 @@
+Create a REAL-TIME 8-second cinematic cooking video (9:16), not fast-forward, normal speed pacing.
+
+Each step should last visibly (no time-lapse, no jump cuts):
+
+1s: hands place white bread into steel toaster  
+2s: toast pops up golden with steam (slow motion)  
+3s: cut avocado in half  on wooden board
+4s: mash avocado cubes slowly in bowl  
+5s: add salt and squeeze lemon (slow motion droplets)  
+6s: spread avocado on toast  
+7s: final plated avocado toast
+
+Style: ultra-realistic, soft daylight, clean modern kitchen  
+Camera: macro close-ups, smooth transitions, no speed-up
+
+Style:
+- Cinematic but instructional
+- Ultra-realistic food textures
+- Bright, soft natural daylight
+- Warm, inviting tones
+- Minimal, modern kitchen aesthetic
+- Shallow depth of field (background blur)
+
+Camera:
+- Macro close-up shots
+- Smooth camera movement
+- Slight slow motion on key moments (toast pop, lemon squeeze)
+- No abrupt transitions
+
+Mood:
+- Calm, satisfying, premium food reel
+- Visually aesthetic and engaging like a viral Instagram reel

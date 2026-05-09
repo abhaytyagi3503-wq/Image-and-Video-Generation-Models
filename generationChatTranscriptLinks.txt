@@ -1,0 +1,1 @@
+Add one share/transcript link per line for the chats used to generate birds-at-birdfeeders images from text only.
